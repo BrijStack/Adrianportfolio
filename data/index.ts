@@ -204,17 +204,17 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "./git.svg",
     name: "git",
   },
   {
     id: 2,
-    img: "/twit.svg",
+    img: "./twit.svg",
     name: "twitter",
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "./link.svg",
     name: "linkedin",
   },
 ];
